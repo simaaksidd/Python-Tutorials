@@ -1,3 +1,4 @@
+#this file shows many different types of random password generation using the random.py library
 import random
 from random import randint
 
@@ -26,7 +27,7 @@ for i in range(5):
     password = str(password) + i + j
 print(password)
 
-#Version using lists with user input
+#Version using lists and user input
 upper = list(range(65,91))
 lower = list(range(97,123))
 special = [33, 64, 37, 38, 36]
