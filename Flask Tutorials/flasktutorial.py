@@ -1,3 +1,4 @@
+#This file is a combination of code for the purpose of showing what flask can do. DO NOT USE THIS FILE. Use flaskhtml.py for a comprehensible website.
 from flask import Flask, redirect, url_for
 
 app = Flask(__name__)
