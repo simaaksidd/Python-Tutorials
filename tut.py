@@ -31,3 +31,8 @@ for link in links:
     if "About" in link.text:
         print(link)
         print(link.attrs['href'])
+# this is a simple loop which looks for a link in the links list for an "About" in the text
+# then we print the actual variable 'link'
+# we also print the attribute 'href'
+# the link var output is: <a href="/intl/en/about.html">About Google</a>
+# the href attr output is: /intl/en/about.html
