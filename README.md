@@ -1,3 +1,3 @@
 # Python-Tutorials
 Small python beginner tutorials. 
-I am currently learning how to predict the stock market with data science. 
+All of these tutorials represent a beginner understanding of these libraries and modules. 
